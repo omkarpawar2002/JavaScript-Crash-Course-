@@ -34,7 +34,5 @@ This section covers:
 
 **Omkar Pawar**
 [GitHub](https://github.com/omkarpawar2002)
-[Email] omkarsp20@example.com
- 
-
+[Email](omkarsp20@example.com)
 Created: 2025
