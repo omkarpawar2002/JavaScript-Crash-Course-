@@ -1,0 +1,1 @@
+alert("Saying Hi from the practice_exercise_1.3.js");
