@@ -33,6 +33,6 @@ This section covers:
 ## 🙋‍♂️ Author
 
 **Omkar Pawar**
-[GitHub](https://github.com/omkarpawar2002)
+[GitHub](https://github.com/omkarpawar2002)<br>
 [Email](omkarsp20@example.com)
 Created: 2025
